@@ -1,4 +1,4 @@
 # cpdd
-A dating site
+A dating site.
 You can see it
 [cpddd.me](cpddd.me)
